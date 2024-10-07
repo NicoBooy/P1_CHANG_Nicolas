@@ -3,8 +3,8 @@
 ### Maximize the profit function subject to constraints.
 
 __options__:
-> -h, --help   show help message
+> -h, --help   -> show help message
 
-> --xmax XMAX  Upper bound for x
+> --xmax XMAX  -> set Upper bound for x
 
-> --ymax YMAX  Upper bound for y
+> --ymax YMAX  -> set Upper bound for y
