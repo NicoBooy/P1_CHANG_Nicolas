@@ -3,7 +3,7 @@
 # Maximize the profit function subject to constraints.
 
 __options__:
-> -h, --help   show this help message and exit
+> -h, --help   show help message
 
 > --xmax XMAX  Upper bound for x
 
