@@ -8,3 +8,5 @@ __options__:
 > --xmax XMAX  -> set Upper bound for x
 
 > --ymax YMAX  -> set Upper bound for y
+
+*note : default lower value set at 0 because ressources are always >0*
