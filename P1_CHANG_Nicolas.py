@@ -94,7 +94,7 @@ def main():
     
     args = parser.parse_args()
 
-    # Définir les limites pour x et y avec 0 comme limite inférieure
+    # Define bounds with 0 for default lower value
     x_bounds = (0, args.xmax)
     y_bounds = (0, args.ymax)
     
