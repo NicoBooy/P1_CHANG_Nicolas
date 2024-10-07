@@ -89,8 +89,8 @@ def plot_feasible_region(x_opt, y_opt):
 # Main function to handle input arguments and execute the optimization
 def main():
     parser = argparse.ArgumentParser(description='Maximize the profit function subject to constraints.')
-    parser.add_argument('--xmax', type=float, default=15, help='Upper bound for x (default: 15)')
-    parser.add_argument('--ymax', type=float, default=15, help='Upper bound for y (default: 15)')
+    parser.add_argument('--xmax', type=float, default=15, help='Upper bound for x')
+    parser.add_argument('--ymax', type=float, default=15, help='Upper bound for y')
     
     args = parser.parse_args()
 
