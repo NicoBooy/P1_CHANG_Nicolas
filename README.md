@@ -1,6 +1,6 @@
 ﻿# P1_CHANG_Nicolas
  
-# Maximize the profit function subject to constraints.
+### Maximize the profit function subject to constraints.
 
 __options__:
 > -h, --help   show help message
